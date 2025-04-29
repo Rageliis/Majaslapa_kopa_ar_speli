@@ -1,0 +1,98 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+.lietotaja-iespejas img {
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+main {
+    padding: 20px;
+}
+.ieteikumi {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
+
+.ieteikumi h2 {
+    color: #4CAF50;
+    font-size: 1.8em;
+}
+
+.ieteikumi ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.ieteikumi li {
+    margin-bottom: 10px;
+}
+
+.ieteikumi p {
+    color: #333;
+    line-height: 1.5;
+}
+.drosas-valstis {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.drosas-valstis h2 {
+    color: #4CAF50;
+    font-size: 1.8em;
+}
+
+.drosas-valstis ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.drosas-valstis li {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.drosas-valstis p {
+    color: #333;
+    line-height: 1.5;
+}
+.speles-sekcija {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+}
+.speles-sekcija h2 {
+    color: #4CAF50;
+    font-size: 1.8em;
+    margin-bottom: 20px;
+}
+#mansZimejums {
+    border: 2px solid #4CAF50;
+    border-radius: 8px;
+}
+ .ieteikumi h2, .drosas-valstis h2, .speles-sekcija h2 {
+        font-size: 1.2em;
+    }
+ .speles-sekcija {
+        padding: 10px;
+    }
